@@ -9,4 +9,4 @@ NTNU ERLS LATIA112-1
 
 系級： 學習科學學士學位學程
 
-作業一http://localhost:8888/notebooks/1.ipynb
+作業一https://github.com/chien940213/LATIA112-1/blob/main/homework1.ipynb
