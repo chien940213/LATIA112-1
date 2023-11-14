@@ -13,4 +13,4 @@ NTNU ERLS LATIA112-1
 
 作業二:https://github.com/chien940213/LATIA112-1/blob/main/hw2.ipynb
 
-作業二scrapy:
+作業二scrapy:https://github.com/chien940213/LATIA112-1/tree/main/hw2
