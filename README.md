@@ -12,3 +12,4 @@ NTNU ERLS LATIA112-1
 作業一https://github.com/chien940213/LATIA112-1/blob/main/homework1.ipynb
 
 作業二https://github.com/chien940213/LATIA112-1/blob/main/hw2.ipynb
+      scrapy
